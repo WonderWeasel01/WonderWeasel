@@ -1,5 +1,6 @@
 <h1 align="center">Hi, i'm WonderWeasel👋</h1>
-<h3 align="center">Hi there! My name is Alexander and I am a studying as a developer at Zealand Denmark who started learning to code this year. While I am new to coding, I have been practicing UI design and Photoshop since 2019 and enjoy using my creativity to build visually appealing websites. In my free time, I love to play games and explore new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to share my projects and experiences with the community on GitHub.</h3>
+<h2 align="center">Hi there! My name is Alexander and I am a studying as a developer at Zealand Denmark who started learning to code this year. While I am new to coding, I have been practicing UI design and Photoshop since 2019 and enjoy using my creativity to build visually appealing websites. In my free time, I love to play games and explore new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to share my projects and experiences with the community on GitHub.</h2>
+
 
 
 <h3 align="left">My Languages and Tools🖥️</h3>
@@ -23,7 +24,9 @@
   
   ----------------------------------------------------------------------------------------------------------------------------------------
   
-  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>![Full star](https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png)
+  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png" 
+     width="400" 
+     height="500" />
   
   ----------------------------------------------------------------------------------------------------------------------------------------
   
