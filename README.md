@@ -25,8 +25,8 @@
   ----------------------------------------------------------------------------------------------------------------------------------------
   
   </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png" 
-     width="400" 
-     height="500" />
+     width="40" 
+     height="40" />
   
   ----------------------------------------------------------------------------------------------------------------------------------------
   
