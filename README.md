@@ -13,7 +13,7 @@
   </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   
   
-  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>![Full star](https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png)
   
   
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -28,3 +28,9 @@
 <a href="https://instagram.com/xanderwentzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanderwentzel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@wonderweasel110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wonderweasel110" height="30" width="40" /></a>
 </p>
+
+
+
+![Half star](https://user-images.githubusercontent.com/69655111/209864000-30365cdf-a617-461d-af85-0f20f3a0f19e.png)
+![Full star](https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png)
+
