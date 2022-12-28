@@ -1,13 +1,6 @@
 <h1 align="center">Hi, i'm WonderWeasel👋</h1>
 <h3 align="center">Hi there! My name is Alexander and I am a studying as a developer at Zealand Denmark who started learning to code this year. While I am new to coding, I have been practicing UI design and Photoshop since 2019 and enjoy using my creativity to build visually appealing websites. In my free time, I love to play games and explore new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to share my projects and experiences with the community on GitHub.</h3>
 
-- 🔭 I’m currently studying at **Zealand Denmark**
-
-- 💬 Ask me about **Ui and design**
-
-- 📫 How to reach me **Alexwentzel@live.dk**
-
-
 
 <h3 align="left">My Languages and Tools🖥️</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
