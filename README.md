@@ -16,7 +16,7 @@
   
   ----------------------------------------------------------------------------------------------------------------------------------------
   
-  </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="16" height="16"/> 
+  </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   
   ----------------------------------------------------------------------------------------------------------------------------------------
   
@@ -25,8 +25,16 @@
   ----------------------------------------------------------------------------------------------------------------------------------------
   
   </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png" 
-     width="40" 
-     height="40" />
+     width="32" 
+     height="32" /><img src="https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png" 
+     width="32" 
+     height="32" /><img src="https://user-images.githubusercontent.com/69655111/209865246-d5b429a9-80cf-4204-a616-5c468d3f88ca.png" 
+     width="32" 
+     height="32" /><img src="https://user-images.githubusercontent.com/69655111/209865246-d5b429a9-80cf-4204-a616-5c468d3f88ca.png" 
+     width="32" 
+     height="32" /><img src="https://user-images.githubusercontent.com/69655111/209865246-d5b429a9-80cf-4204-a616-5c468d3f88ca.png" 
+     width="32" 
+     height="32" />
   
   ----------------------------------------------------------------------------------------------------------------------------------------
   
@@ -49,4 +57,5 @@
 
 ![Half star](https://user-images.githubusercontent.com/69655111/209864000-30365cdf-a617-461d-af85-0f20f3a0f19e.png)
 ![Full star](https://user-images.githubusercontent.com/69655111/209864023-d4b67e2c-04c0-4b5f-a74a-cb9cde5dbe9b.png)
+![no star](https://user-images.githubusercontent.com/69655111/209865246-d5b429a9-80cf-4204-a616-5c468d3f88ca.png)
 
